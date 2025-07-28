@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI-Powered PDF Chat with Automation
 
 A modern, full-stack web application that allows users to upload PDF documents and ask questions about their content using AI-powered analysis.
@@ -244,3 +245,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 **Made with ❤️ for document intelligence and AI-powered analysis** 
+=======
+# ai-pdf-chatbot
+>>>>>>> 781f59da07b392175c8b2f09a45a18a63ffff2d0
